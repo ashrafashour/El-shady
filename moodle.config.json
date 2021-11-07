@@ -1,5 +1,5 @@
 {
-    "app_id": "com.el-shady.lms",
+    "app_id": "com.elshady.lms",
     "appname": "El-Shady",
     "versioncode": 1,
     "versionname": "1.0.0",
@@ -86,7 +86,7 @@
     "forceLoginLogo": false,
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "com.el-shady.lms",
+        "android": "com.elshady.lms",
         "ios": "id633359593"
     }
 }
